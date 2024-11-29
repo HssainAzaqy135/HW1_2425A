@@ -7,8 +7,4 @@ You may find the full instructions for this assignment on the [course's website]
 Good luck and have fun!
 
 lkasodkaps
-
-hssain123
-=======
 asdasasd
->>>>>>> b8bc48d05d28168f59ad446c053ab99edf6ae54d
